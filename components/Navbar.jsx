@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Menu,MenuButton,MenuList,MenuItem,IconButton,Flex,Box,Spacer } from "@chakra-ui/react";
 import {FcHome,FcMenu,FcAbout}  from 'react-icons/fc';
-
+import {BsSearch}  from 'react-icons/Bs';
 import {FiKey}  from 'react-icons/fi';
 import { MdRealEstateAgent } from "react-icons/md";
 
